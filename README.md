@@ -1,3 +1,3 @@
 # ChatRoom
-Chat Socket
+Chat Socket /n
 Php files are in ChatApplication file
